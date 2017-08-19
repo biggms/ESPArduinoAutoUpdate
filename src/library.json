@@ -1,0 +1,22 @@
+{
+  "name": "AutoUpdate",
+  "keywords": "ota, update",
+  "description": "Wrapper around ArduinoOTA, will support auto updates in the future",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/biggms/ESPArduinoAutoUpdate.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Graham Stewart",
+      "email": "gstewart05@gmail.com",
+      "url": "biggms.noip.me",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
