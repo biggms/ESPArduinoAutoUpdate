@@ -1,4 +1,4 @@
-#include "AutoUpdate.h"
+#include "AutoUpdate.hpp"
 
 AutoUpdate::AutoUpdate( const char* pPassword, const char* pHostname )
 {
